@@ -11,7 +11,6 @@ I am Vaibhav, I am a B.Tech 3rd year CSE student 😊😊 I like to make website
    - ---
   <img src="https://up63cafe.com/images/screen1.png" width="150" height="300">
    <img src="https://up63cafe.com/images/screen2.png" width="150" height="300">
-   <br />
    <img src="https://up63cafe.com/images/screen3.png" width="150" height="300">
    <img src="https://up63cafe.com/images/screen4.png" width="150" height="300">
    <br />
@@ -25,7 +24,6 @@ I am Vaibhav, I am a B.Tech 3rd year CSE student 😊😊 I like to make website
     - ---
     <img src="https://up63cafe.com/images/travel1.png" width="150" height="300">
     <img src="https://up63cafe.com/images/travel2.png" width="150" height="300">
-    <br />
     <img src="https://up63cafe.com/images/travel3.png" width="150" height="300">
     <img src="https://up63cafe.com/images/travel4.png" width="150" height="300">
     <br />
